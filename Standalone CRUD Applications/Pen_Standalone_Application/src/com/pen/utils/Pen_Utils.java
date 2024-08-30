@@ -14,7 +14,7 @@ import com.pen.exception.Pen_Exception;
 
 public class Pen_Utils {
 
-	//Populated List for Automatic Data Testing
+	//Populated List for Data Testing
 	public static ArrayList<Pen_Entities> populatedPenList()
 	{
 		Pen_Entities p1 = new Pen_Entities(BRAND.CELLO, "Blue", "Black", MATERIAL.PLASTIC, 55, LocalDate.parse("2002-03-06"), LocalDate.parse("2003-03-06"), 100, 20);
