@@ -27,4 +27,4 @@ Also use Serialization and De-Serialization
 
 Note: You can use java collection to store items in memory.
 
-- <a href="Standalone CRUD Apllications/Pen_Standalone/src/com/pen">Pen Standalone CRUD Application</a>
+- <a href="https://github.com/NilayPawale/Core-Java/tree/e6b13ef35aae7e30e41c5b855ea874dad9388f17/Standalone%20CRUD%20Apllications/Pen_Standalone/src/com/pen">Pen Standalone CRUD Application</a>
