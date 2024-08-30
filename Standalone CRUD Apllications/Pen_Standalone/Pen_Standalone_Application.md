@@ -26,3 +26,5 @@ You can define a class Pen with the following fields –
 Also use Serialization and De-Serialization
 
 Note: You can use java collection to store items in memory.
+
+- <a href="Standalone CRUD Apllications/Pen_Standalone/src/com/pen">Pen Standalone CRUD Application</a>
