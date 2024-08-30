@@ -7,20 +7,21 @@ Write a console-based menu driven java program for site ADMIN to perform followi
 
 1. Add new Pen
 2. Update stock of aPen
-3.Set discount of 20% for all the pens which are not at all sold in last 3 months
+3. Set discount of 20% for all the pens which are not at all sold in last 3 months
 4. Remove Pens which arenever sold once listed in 9 months
 
-You can define a class Pen with the following fields – 
-a.	ID (unique identifier for each Pen, should be generated automatically)
-b.	Brand (Example:  Cello, Parker, Reynolds etc.)
-c.	Color
-d.	InkColor
-e.	Material (Example: Plastic, Alloy Steel, Metal etc.)
-f.	Stock (Available quantity)
-g.	Stock Update Date (it changed every time when admin update stock or user order executed)
-h.	Stock Listing Date (date on which product is added to site for sale)
-i.	Price (in INR) 
-j.	Discounts (in percentage)
+You can define a class Pen with the following fields –
+
+- ID (unique identifier for each Pen, should be generated automatically)
+- Brand (Example:  Cello, Parker, Reynolds etc.)
+- Color
+- InkColor
+- Material (Example: Plastic, Alloy Steel, Metal etc.)
+- Stock (Available quantity)
+- Stock Update Date (it changed every time when admin update stock or user order executed)
+- Stock Listing Date (date on which product is added to site for sale)
+- Price (in INR) 
+- Discounts (in percentage)
 
 Also use Serialization and De-Serialization
 
