@@ -2,7 +2,7 @@ package Array;
 
 import java.util.Scanner;
 
-public class Array_7_Second_Largest {
+public class Remove_Duplicates_26 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -11,7 +11,6 @@ public class Array_7_Second_Largest {
 		int size = sc.nextInt();
 		
 		int[] arr = new int[size];
-		
 		System.out.println("Enter the Elements of Array");
 		for(int i=0; i<arr.length; i++)
 		{
@@ -19,34 +18,39 @@ public class Array_7_Second_Largest {
 		}
 		System.out.println();
 		
-		System.out.println("Displaying Array");
 		for(int i=0; i<arr.length; i++)
 		{
-			System.out.print(arr[i]);
-			System.out.print(" ");
+			System.out.print(arr[i] + " ");
 		}
 		System.out.println();
+
+		int duplicate = duplicate(arr);
 		
-		//Second Largest Element
+		System.out.println(duplicate + " is the Number of Elements");
 		
-		int max = Integer.MIN_VALUE;
-		int secondMax = Integer.MAX_VALUE;
+	}
+
+	
+	public static int duplicate(int[] nums)
+	{
+		int n = nums.length;
 		
-		for(int i=0; i<arr.length; i++)
+		if(nums.length == 0)
 		{
-			if(arr[i] > max)
+			return 0;
+		}
+		
+		int l = 1;
+		
+		for(int r=1; r<n; r++)
+		{
+			if(nums[r] != nums[r-1])
 			{
-				secondMax = max;
-				max = arr[i];
-			}
-			else if(arr[i] > secondMax && arr[i] != max)
-			{
-				secondMax = arr[i];
+				nums[l] = nums[r];
+				l++;
 			}
 		}
 		
-		System.out.println("The Second Largest Element is "+secondMax);
-
+		return l;
 	}
-
 }
