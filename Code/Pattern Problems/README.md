@@ -2,7 +2,8 @@
 
 This Section Consists of Java Pattern Codes that I have done till date.
 
-1. Right Triangle
+
+1. <a href="https://github.com/NilayPawale/Core-Java/blob/30ea52b60544b7ddd5590efd9bf11e39860113d5/Code/Pattern%20Problems/P1_Right_Triangle.java">Right Triangle </a>
 ```
 * 
 * * 
@@ -12,7 +13,7 @@ This Section Consists of Java Pattern Codes that I have done till date.
 ```
 
 
-2. Left Triangle
+2. <a href="https://github.com/NilayPawale/Core-Java/blob/30ea52b60544b7ddd5590efd9bf11e39860113d5/Code/Pattern%20Problems/P2_Left_Triangle.java">Left Triangle </a>
 ```
         * 
       * * 
@@ -21,7 +22,7 @@ This Section Consists of Java Pattern Codes that I have done till date.
 * * * * * 
 ```
 
-3. Pattern 1
+3. <a href="https://github.com/NilayPawale/Core-Java/blob/30ea52b60544b7ddd5590efd9bf11e39860113d5/Code/Pattern%20Problems/Pattern_1.java">Pattern 1 </a>
 ```
 1
 1 2
@@ -32,7 +33,7 @@ This Section Consists of Java Pattern Codes that I have done till date.
 1 2 3 4 5 6 7
 ```
 
-4. Pattern 2
+4. <a href="https://github.com/NilayPawale/Core-Java/blob/30ea52b60544b7ddd5590efd9bf11e39860113d5/Code/Pattern%20Problems/Pattern_2.java">Pattern 2 </a>
 ```
 1 2 3 4 5 6 7
 1 2 3 4 5 6
@@ -42,7 +43,7 @@ This Section Consists of Java Pattern Codes that I have done till date.
 1 2
 1
 ```
-5. Pattern 3
+5. <a href="https://github.com/NilayPawale/Core-Java/blob/30ea52b60544b7ddd5590efd9bf11e39860113d5/Code/Pattern%20Problems/Pattern_3.java">Pattern 3 </a>
 ```
 1
 2 2
@@ -53,7 +54,7 @@ This Section Consists of Java Pattern Codes that I have done till date.
 7 7 7 7 7 7 7
 ```
 
-6. Pattern 4
+6. <a href="https://github.com/NilayPawale/Core-Java/blob/30ea52b60544b7ddd5590efd9bf11e39860113d5/Code/Pattern%20Problems/Pattern_4.java">Pattern 4 </a>
 ```
 7 7 7 7 7 7 7
 6 6 6 6 6 6
@@ -64,7 +65,7 @@ This Section Consists of Java Pattern Codes that I have done till date.
 1
 ```
 
-7. Pattern 5
+7. <a href="https://github.com/NilayPawale/Core-Java/blob/30ea52b60544b7ddd5590efd9bf11e39860113d5/Code/Pattern%20Problems/Pattern_5.java">Pattern 5 </a>
 ```
 7
 7 6
@@ -75,7 +76,7 @@ This Section Consists of Java Pattern Codes that I have done till date.
 7 6 5 4 3 2 1
 ```
 
-8. Pattern 6
+8. <a href="https://github.com/NilayPawale/Core-Java/blob/30ea52b60544b7ddd5590efd9bf11e39860113d5/Code/Pattern%20Problems/Pattern_6.java">Pattern 6 </a>
 ```
 7 6 5 4 3 2 1
 7 6 5 4 3 2
@@ -86,7 +87,7 @@ This Section Consists of Java Pattern Codes that I have done till date.
 7
 ```
 
-9. Pattern 7
+9. <a href="https://github.com/NilayPawale/Core-Java/blob/30ea52b60544b7ddd5590efd9bf11e39860113d5/Code/Pattern%20Problems/Pattern_7.java">Pattern 7 </a>
 ```
 1
 2 1
