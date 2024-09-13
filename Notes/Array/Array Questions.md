@@ -8,13 +8,13 @@
 2) What are the different ways to create arrays in Java?
 
 1) Creating an array without elements :
-
+```
 int[] a = new int[10] OR int a[] = new int[10]
-
+```
 2) Creating an array with elements :
-
+```
 int[] a = new int[] {1, 2, 3, 4 ,5} OR int a[] = new int[] {1, 2, 3, 4 ,5}
-
+```
 
 3) What is ArrayStoreException in Java? When you will get this exception?
 
@@ -320,14 +320,14 @@ public class JavaArrayExample
 Using toArray() method.
 
 22) What is the time complexity of different operations on arrays?
-```
+
 | Operations | Time Complexity (Worst Case Scenario) | 
 |:--------------: |:--------------:| 
 | Modify
 (You can’t insert or delete elements once an array is created. What you can do is just change value of an existing element)         | O(1)         | 
 | Search | O(n) | 
 | Retrieval | O(1) | 
-```
+
 
 23) What are the main drawbacks of the arrays in Java?
 
