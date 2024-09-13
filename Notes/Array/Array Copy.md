@@ -1,4 +1,4 @@
-# Copying an Array
+# Copying An Array In Java
 
 Consider the following program
 ```
@@ -27,20 +27,15 @@ public class ArraysInJava
     }
 }
 ```
+
 - In the above example, we are defining an array of ints. 
 - We are copying that array to another array of ints. 
-- You can notice that changing the value of one array will be reflected in another array also. 
-- That means, both the array variables(a and b) are pointing to same object in the memory. 
+- Notice that changing the value of one array will be reflected in another array also. 
+- That means, both the array variables(a and b) are pointing to same object in the memory.
 
-This can be illustrated using diagram as below,
+If you copy an array using above method, changes made in one array will be reflected in other. Normally, you don’t want such behaviour in real time. You may need two different array objects with same set of elements. In such scenarios, Instead of using the above method, use any one of the following methods.
 
-![alt text](image-2.png)
-
-
-If you copy an array using above method, changes made in one array will be reflected in other. Normally, you don’t want such behaviour in real time. You may need two different array objects with same set of elements. 
-In such scenarios, Instead of using the above method, use any one of the following methods.
-
-## Copying An Array Using for Loop 
+## Copying An Array Using for Loop
 
 The following example shows how to copy an array using for-loop.
 ```
@@ -71,6 +66,7 @@ public class ArraysInJava
 ```
 
 ## Copying An Array Using copyOf() Method of java.util.Array Class
+
 ```
 public class ArraysInJava
 {
@@ -105,7 +101,6 @@ public class ArraysInJava
 ## Copying An Array Using clone() Method
 
 All arrays will have clone() method inherited from java.lang.Object class. Using this method, you can copy an array.
-
 ```
 public class ArraysInJava
 {
@@ -138,6 +133,7 @@ public class ArraysInJava
 ```
 
 ## Copying An Array Using arraycopy() Method Of System Class
+
 ```
 public class ArraysInJava
 {
@@ -173,4 +169,4 @@ public class ArraysInJava
 }
 ```
 
-Using arraycopy() method of System class, you can copy a part of an array into another array.
+Note : Using arraycopy() method of System class, you can copy a part of an array into another array.
