@@ -2,7 +2,7 @@
 
 This Section Covers all the Main Topics of Core Java
 
-1. <a href="https://github.com/NilayPawale/Core-Java/tree/main/Notes/Java%20Basics">Java Basics</a>
+1. <a href="https://github.com/NilayPawale/Core-Java/blob/main/Notes/Java%20Basics/README.md">Java Basics</a>
 
 2. <a href="https://github.com/NilayPawale/Core-Java/blob/main/Notes/Java%20OOP/README.md">Java Object Oriented Programming</a>
 
