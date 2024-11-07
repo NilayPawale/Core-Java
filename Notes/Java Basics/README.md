@@ -1,6 +1,6 @@
-# Core-Java
+# Core-Java Basics
 
-This Section is for Java Basics.
+This Section is for Java Basic Topics.
 
 1. <a href="">Introduction To Java</a>
 
