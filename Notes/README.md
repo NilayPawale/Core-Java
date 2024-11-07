@@ -2,7 +2,7 @@
 
 This Section Covers all the Main Topics of Core Java
 
-1. <a href="">Java Basics</a>
+1. <a href="https://github.com/NilayPawale/Core-Java/blob/main/Notes/Notes/Java%20Basics/README.md">Java Basics</a>
 
 2. <a href="">Java Array</a>
 
